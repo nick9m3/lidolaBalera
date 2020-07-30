@@ -1,0 +1,90 @@
+html{
+    background-color: black;
+    border: none;
+}
+body{
+    border: none;
+    margin: 0px;
+    background-color: white;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    font-size: 1.5vw;
+}
+.link-nav{
+    color: white;
+}
+.imma{
+    width: 50%;
+    float: left;
+}
+.carousel-inner{
+    width: 100%;
+}
+.descr{
+    width: 100%;
+}
+.cit{
+    width: 30%;
+    font-style: italic;
+    margin-left: 35%;
+    font-size: 2.5vw;
+}
+
+.box-map{
+    display: flex;
+    margin: 4em;
+}
+.text-street{
+    width: 60%;
+    text-align: center;
+    padding-top: 3em;
+    font-size: 2vw;
+}
+.map{
+    width: 40%;
+}
+iframe{
+    border-radius: 1em;
+    width: 30vw;
+    height: 25vw;
+}
+.imma2{
+    width: 50%;
+    float: right;
+}
+.imma-txt{
+    padding: 2em 3em 0em 26em;
+    font-size: 2.2vw;
+}
+.imma2-txt{
+    padding: 2em 26em 0em 3em;
+    font-size: 2.2vw;
+}
+.box{
+    margin-bottom: 3em;
+}
+.footer{
+    border: none;
+    text-align: center;
+    color: white;
+    font-size: 2vw;
+    background-color: black;
+    margin: 0px;
+    margin-top: 2em;
+    width: auto;
+    height: 10em;
+}
+.btn-floating{
+    padding: 5%;
+    padding-top: 10%;
+    color: white;
+    font-size: 2vw;
+}
+a{
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+}
